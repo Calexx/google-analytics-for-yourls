@@ -1,0 +1,13 @@
+{
+    "name": "acortes/google-analytics-for-yourls",
+    "description": "Composer setup",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alejandro Cortes",
+            "email": "al.cortes@ext.desigual.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
